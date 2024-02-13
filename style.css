@@ -1,0 +1,69 @@
+
+h2{
+    color:rgb(6, 6, 182);
+}
+.mid{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color:rgb(56, 56, 210);
+    height: 220px;
+    width: 600px;
+    margin: 30px;
+    padding:130px;
+    align-items: center; 
+    
+    
+    
+}
+
+.first{
+    color:white;
+    border-left: 7px solid white;
+    height: 110px; 
+   border-radius: 2px;
+    padding: 20px;
+   
+}
+
+.second{
+    
+    border: 2px solid white; 
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+ 
+    
+}
+a{
+    color:blue;
+}
+.button{
+    border:2px solid blue;
+    background-color:blue;
+    color:white;
+    border-radius: 19px;
+    width: 310px;
+    height:35px;
+}
+
+.box{
+    width: 300px;
+}
+a{
+    text-decoration: none;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.align{
+    text-align: left;
+    color: rgb(128, 125, 125);
+}
+.horizontal{
+    color:whitesmoke;
+}
